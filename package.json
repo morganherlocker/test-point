@@ -1,0 +1,28 @@
+{
+  "name": "test-point",
+  "version": "0.0.1",
+  "description": "geojson point test feature ",
+  "main": "point.json",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morganherlocker/test-point.git"
+  },
+  "keywords": [
+    "test",
+    "geojson",
+    "fixture",
+    "point"
+  ],
+  "author": "morganherlocker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morganherlocker/test-point/issues"
+  },
+  "homepage": "https://github.com/morganherlocker/test-point",
+  "devDependencies": {
+    "tape": "^2.13.2"
+  }
+}
